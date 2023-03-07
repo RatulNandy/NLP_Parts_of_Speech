@@ -1,2 +1,2 @@
-# NLP_Parts_of_Speech
+# NLP Parts of Speech
 Parts of Speech
